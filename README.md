@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Stock Market Prediction using LSTM</title>
+
 </head>
 <body>
   <h1>Stock Market Prediction using LSTM</h1>
